@@ -20,21 +20,21 @@ un nome, un prezzo di vendita, un prezzo di acquisto, una quantità e una descri
 Il software deve permettere di aggiungere, modificare e rimuovere un prodotto.
 Il software deve permettere di visualizzare la lista dei prodotti.
 
-#### **_Clienti da finire la parte di clienti_**
+#### **_Clienti: da finire la parte di clienti_**
 
 Il software deve permettere di gestire i clienti.
 Ogni cliente deve avere un nome, un cognome, un indirizzo, un numero di telefono e un indirizzo email.
 Il software deve permettere di aggiungere, modificare e rimuovere un cliente.
 Il software deve permettere di visualizzare la lista dei clienti.
 
-#### **_Vendite da finire la parte di vendite_**
+#### **_Vendite: da finire la parte di vendite_**
 
 Il software deve permettere di gestire le vendite.
 Ogni vendita deve avere un cliente, una data, una lista di prodotti e un totale.
 Il software deve permettere di aggiungere, modificare e rimuovere una vendita.
 Il software deve permettere di visualizzare la lista delle vendite.
 
-#### _**Forniture da finire la parte di forniture**_
+#### _**Forniture: da finire la parte di forniture**_
 
 Il software deve permettere di gestire le forniture.
 Ogni fornitura deve avere un prodotto, una data, una quantità e un totale.
@@ -53,7 +53,7 @@ Il software è rilasciato sotto licenza MIT. Per maggiori informazioni leggere i
 
 ## Autori
 
-* **_SERGE GUEA_** - *Initial work* - [SergeGuea](
+* **_SERGE GUEA_** - *Initial work* - [SergeGuea]
 
 
 
