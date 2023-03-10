@@ -51,7 +51,7 @@ Il software deve essere realizzato in Java e deve essere realizzato utilizzando 
 
 Il software è rilasciato sotto licenza MIT. Per maggiori informazioni leggere il file LICENSE.
 
-## Autori
+## Autore
 
 * **_SERGE GUEA_** - *Initial work* - [SergeGuea]
 
