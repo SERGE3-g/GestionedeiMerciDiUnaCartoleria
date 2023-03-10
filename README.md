@@ -53,7 +53,7 @@ Il software è rilasciato sotto licenza MIT. Per maggiori informazioni leggere i
 
 ## Autori
 
-* **_SERGE GUEA GUEA_** - *Initial work* - [SergeGuea](
+* **_SERGE GUEA_** - *Initial work* - [SergeGuea](
 
 
 
