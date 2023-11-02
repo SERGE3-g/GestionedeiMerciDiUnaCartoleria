@@ -8,7 +8,7 @@ public class Main {
     public static void main(String[] args) { // creo un metodo main
 
         Penna p = new Penna();
-        p.setCosto(0.4);
+        p.setCosto(6.9);
         p.setMarca("Bic");
         p.setModello("Standard");
         p.setColore("Blu");
